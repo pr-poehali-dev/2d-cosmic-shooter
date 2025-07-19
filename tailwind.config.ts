@@ -24,6 +24,12 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				'space-dark': '#0A0A23',
+				'space-blue': '#00D4FF', 
+				'space-orange': '#FF6B35',
+				'space-deep': '#1A1A2E',
+				'laser-blue': '#00D4FF',
+				'laser-orange': '#FF6B35',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
